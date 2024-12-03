@@ -28,9 +28,10 @@ Technical questions or brainstorming solutions!
 [Email](bentani.amin2000@gmail.com)
 
 ### 🔧 Technical Skills
-- **Languages**: Python, JavaScript, Java, C#
-- **Frameworks**: Django, Spring Boot, Express.js
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **DevOps**: Docker, Kubernetes, Jenkins, GitLab CI/CD
+- **Languages**: Python, JavaScript, PHP, Golang
+- **Frameworks & Libraries**: Symfony, Express.js, Node.js, React, Svelte, Flask
+- **CMS**: Drupal, WordPress
+- **Databases**: PostgreSQL, MongoDB, MySQL, MariaDB
+- **DevOps**: Docker, Kubernetes, Jenkins, GitLab CI/CD, Terraform / HELM, ArgoCD 
 - **Tools**: Git, VS Code, IntelliJ, Postman
-- **Cloud Platforms**: AWS, Azure, GCP
+- **Cloud Platforms**: AWS, Azure

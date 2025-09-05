@@ -2,7 +2,7 @@ Hi there 👋
 
 🧑‍💻 About Me
 
-I am a Software Developer specializing in backend development and DevOps practices, with over 4 years of experience in the field.
+I am a Software Developer | SRE specializing in backend development and DevOps practices, with over 4 years of experience in the field.
 I am a self-taught, autonomous professional who thrives on solving problems and finding efficient solutions to complex challenges.
 
 🌟 What I Do
